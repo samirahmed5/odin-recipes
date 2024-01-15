@@ -1,0 +1,1 @@
+This is a new project called odin-recipes. The project will be used to polish my HTML skills.
